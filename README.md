@@ -14,6 +14,8 @@ To run the code, you will have to download the raw data and rename them followin
 ![plt3](/fig/plt3.png)
 
 #### Plotly + Mapbox
+![plotly4](/fig/plotly4.png)
+
 ![plotly2](/fig/plotly2.png)
 
 ![plotly3](/fig/plotly3.png)
